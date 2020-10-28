@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("https://i.pinimg.com/originals/0f/ad/28/0fad289870489c693936a394112b07f2.jpg");
+    background-position: 50% 25%; 
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+.card {
+    background: linear-gradient(-45deg,rgb(0, 119, 73),rgba(0, 82, 41, 0.884));
+    border-radius: 5px;
+}
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
